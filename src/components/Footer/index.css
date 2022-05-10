@@ -1,0 +1,23 @@
+.social-logo {
+  margin-right: 19px;
+  margin-left: 19px;
+  height: 22px;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 45px;
+  background-color: #f5f7fa;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.top-rated-failure-heading {
+  font-weight: 600;
+}

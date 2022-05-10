@@ -1,0 +1,23 @@
+.failure-button {
+  background-color: transparent;
+  border: 2px solid #0087ca;
+  color: #0087ca;
+  height: 30px;
+  width: 110px;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+.favorite-books-heading {
+  margin-left: 45px;
+}
+.favorite-books-line {
+  width: 95vw;
+}
+
+.no-favorite-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
